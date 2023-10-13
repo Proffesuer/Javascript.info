@@ -53,3 +53,5 @@ Examples of such languages:
      
 #JavaScript Fundamentals
 check on the html files to see the practicles on the fundamentals
+#Use strict 
+     use strict to run your script code in a modern way
