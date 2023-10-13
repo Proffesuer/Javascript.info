@@ -29,3 +29,8 @@ Examples of such languages:
     Dart -->is a standalone language that has its own engine that runs in non-browser environments (like mobile apps), but also can be transpiled to JavaScript. Developed by Google.
     Brython -->is a Python transpiler to JavaScript that enables the writing of applications in pure Python without JavaScript.
     Kotlin -->is a modern, concise and safe programming language that can target the browser or Node.
+#Summary
+
+    --JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
+    --Today, JavaScript has a unique position as the most widely-adopted browser language, fully integrated with HTML/CSS.
+   -- There are many languages that get “transpiled” to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
