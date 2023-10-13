@@ -51,3 +51,5 @@ Examples of such languages:
       To see errors and get a lot of other useful information about scripts, “developer tools” have been embedded in browsers.
 
      
+#JavaScript Fundamentals
+check on the html files to see the practicles on the fundamentals
