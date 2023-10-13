@@ -55,3 +55,9 @@ Examples of such languages:
 check on the html files to see the practicles on the fundamentals
 #Use strict 
      use strict to run your script code in a modern way
+#Variables
+  A variable is a named storage. it is initialized by using the word let.
+  use the word let to initialize variables
+  example 
+  let message;
+  
