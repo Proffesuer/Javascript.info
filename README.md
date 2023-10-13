@@ -60,4 +60,6 @@ check on the html files to see the practicles on the fundamentals
   use the word let to initialize variables
   example 
   let message;
+  #Data types 
+  Javascript variables can keep more than one data type
   
