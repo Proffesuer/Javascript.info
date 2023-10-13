@@ -63,4 +63,9 @@ check on the html files to see the practicles on the fundamentals
   #Data types 
   Javascript variables can keep more than one data type
   There are different types of data types like string and numbers 
+  #Javascript Quotations
+  There are three types of quotations:
+  --Double Quotes. 
+  --Single Quotes.
+  --Backticks Quotes.
   
