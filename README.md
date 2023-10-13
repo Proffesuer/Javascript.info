@@ -62,4 +62,5 @@ check on the html files to see the practicles on the fundamentals
   let message;
   #Data types 
   Javascript variables can keep more than one data type
+  There are different types of data types like string and numbers 
   
