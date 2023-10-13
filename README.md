@@ -33,4 +33,12 @@ Examples of such languages:
 
     --JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
     --Today, JavaScript has a unique position as the most widely-adopted browser language, fully integrated with HTML/CSS.
-   -- There are many languages that get “transpiled” to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
+    -- There are many languages that get “transpiled” to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
+
+#IDE
+     An IDE loads the project (which can be many files), allows navigation between files, provides autocompletion based on the whole project (not just the open file), and integrates with a version management system (like git), a testing environment, and other “project-level” stuff.
+
+     If you haven’t selected an IDE yet, consider the following options:
+
+    --Visual Studio Code (cross-platform, free).
+    --WebStorm (cross-platform, paid).
