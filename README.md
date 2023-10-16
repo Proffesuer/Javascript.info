@@ -68,4 +68,6 @@ check on the html files to see the practicles on the fundamentals
   --Double Quotes. 
   --Single Quotes.
   --Backticks Quotes.
-  
+  #Interactions: Alert,prompt ,and Confirm
+  Alert: It shows a message and waits the user to press ok 
+  Prompt : funtion prompt accepts two arguments . It shows a modal window with a text message , and input field for the visitor  
