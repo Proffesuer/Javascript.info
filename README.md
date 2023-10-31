@@ -76,7 +76,6 @@ check on the html files to see the practicles on the fundamentals
   Most of the time operators and functions automatically converts the values given to them to the right type.
   #string Converstation
   #Numeric Conversation
-  ---------------------------------------------------------------------------------------------
   #operators 
   -->Tearm : Unary ,Binary ,and Operand
   An operand is what operators are applied to. For instance in the multiplication of 5 * 2 there are two operands . The left operand is 5 and the right operand is 2. Sometimes people call them arguments.
