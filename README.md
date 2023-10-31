@@ -79,5 +79,9 @@ check on the html files to see the practicles on the fundamentals
   #operators 
   -->Tearm : Unary ,Binary ,and Operand
   An operand is what operators are applied to. For instance in the multiplication of 5 * 2 there are two operands . The left operand is 5 and the right operand is 2. Sometimes people call them arguments.
+ #example
+     let x = 1;
 
+x = -x;
+alert( x ); // -1, unary negation was applied
 
