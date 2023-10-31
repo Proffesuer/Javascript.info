@@ -85,3 +85,11 @@ check on the html files to see the practicles on the fundamentals
 x = -x;
 alert( x ); // -1, unary negation was applied
 
+String concatenation with binary +
+
+Let’s meet the features of JavaScript operators that are beyond school arithmetics.
+
+Usually, the plus operator + sums numbers.
+
+But, if the binary + is applied to strings, it merges (concatenates) th
+
