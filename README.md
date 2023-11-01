@@ -93,3 +93,10 @@ Usually, the plus operator + sums numbers.
 
 But, if the binary + is applied to strings, it merges (concatenates) th
 
+#Comparison in Javascript
+
+
+    Greater/less than: a > b, a < b.
+    Greater/less than or equals: a >= b, a <= b.
+    Equals: a == b, please note the double equality sign == means the equality test, while a single one a = b means an assignment.
+    Not equals: In maths the notation is ≠, but in JavaScript it’s written as a != b.
